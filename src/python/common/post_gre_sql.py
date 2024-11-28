@@ -4,9 +4,9 @@ import psycopg2
 db_config = {
     'host': 'localhost',       # 数据库地址
     'port': 5432,              # 默认端口号
-    'database': 'test_db',     # 数据库名称
-    'user': 'postgres',        # 用户名
-    'password': 'password123'  # 密码
+    'database': 'test',     # 数据库名称
+    'user': 'xiamu',        # 用户名
+    'password': '2000'  # 密码
 }
 
 try:
